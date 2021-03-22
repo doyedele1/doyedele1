@@ -8,8 +8,6 @@
 
 <h3>Glad to see you here!</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SpamML
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any web project in React & Angular
