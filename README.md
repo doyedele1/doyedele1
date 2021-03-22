@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SpamDetect
+- 🔭 I’m currently working on SpamML
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any web project in React & Angular
 - 💬 Ask me about anything
