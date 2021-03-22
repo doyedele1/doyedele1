@@ -6,13 +6,19 @@
  <!-- welcome message -->
 <h2>Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<h3>Glad to see you here!</h3>
+<a href="https://twitter.com/oracledev98">
+  <img align="left" alt="Demilade Oyedele | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/oyedele-demilade/">
+  <img align="left" alt="Demilade's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 - 🔭 I’m currently working on SpamML
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any web project in React & Angular
 - 💬 Ask me about anything
-- 📫 How to reach me: demilade.oyedele@gmail.com
+- 📫 How to reach me: [Send me a mail!](mailto:demilade.oyedele@gmail.com);
+- 📝 [Resume](https://docs.google.com/document/d/1NPF2D-IFMpKJTsoFU_M4PZGRf57ibAQM1h17nhkbpQQ/edit?usp=sharing)
 
 <!-- GitHub stats -->
 <h2><b>⚡ My Dev Statistics</b></h2>
