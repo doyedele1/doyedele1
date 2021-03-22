@@ -13,3 +13,14 @@
 - 👯 I’m looking to collaborate on any web project in React & Angular
 - 💬 Ask me about anything
 - 📫 How to reach me: demilade.oyedele@gmail.com
+
+<!-- GitHub stats -->
+<b>⚡ My Dev Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doyedele1&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
