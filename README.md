@@ -15,7 +15,7 @@
 - 📫 How to reach me: demilade.oyedele@gmail.com
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+<h2><b>⚡ My Dev Statistics</b></h2>
 
 <p>
 <!-- GitHub Stats -->
