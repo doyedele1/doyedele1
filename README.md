@@ -22,8 +22,7 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
   <img align="left" alt="Demilade's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-**Languages and Tools:**  
+<h2><b>Languages and Tools</b></h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
