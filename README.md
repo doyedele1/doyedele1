@@ -2,10 +2,10 @@
 [![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/my_profile_card.jpeg)](https://demiladeoyedele.netlify.app/)
 
 
-<!-- Retro visitor counter -->
+<!-- Retro visitor counter
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{doyedele1}/count.svg" />
-</p>
+</p> -->
 
  <!-- Welcome message -->
 <h2>Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
