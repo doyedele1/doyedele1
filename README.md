@@ -1,3 +1,7 @@
+<!-- Profile card -->
+[![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/profile_card.jpeg "Header")](https://demiladeoyedele.netlify.app/)
+
+
 <!-- Retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/{doyedele1}/count.svg" />
