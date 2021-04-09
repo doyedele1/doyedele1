@@ -16,7 +16,7 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
 - 🌱 I’m currently learning Java and Data Science
 - 👯 I’m looking to collaborate on any web project in React & Angular
 - 🤞 I hope to get a FAANG internship one day
-- 💬 Ask me about anything via [@oracledev98](https://twitter.com/oracledev98). I am happy to help!
+- 💬 Ask me anything about tech via [@oracledev98](https://twitter.com/oracledev98). I am happy to help!
 - 📫 How to reach me for collaboration --> [Send me a mail](mailto:demilade.oyedele@gmail.com)
 - 📝 Check out my resume here --> [My resume](https://docs.google.com/document/d/1NPF2D-IFMpKJTsoFU_M4PZGRf57ibAQM1h17nhkbpQQ/edit?usp=sharing)
 
