@@ -12,7 +12,7 @@
 
 I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-taught Full-Stack web developer from Lagos Nigeria. I am passionate about building products that impact individuals and businesses. I take great care in the experience, architecture, and code quality of the things I build.
 
-- 🔭 I’m currently working on SpamML
+- 🔭 I’m currently working on SpamML & ProjectXplore
 - 🌱 I’m currently learning Java and Data Science
 - 👯 I’m looking to collaborate on any web project in React & Angular
 - 🤞 I hope to get a FAANG internship one day
