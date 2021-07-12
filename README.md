@@ -15,10 +15,9 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
 - 🔭 I’m currently working on SpamML & ProjectXplore
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on any exciting web project in React & Angular
-- 🤞 I hope to get a FAANG internship one day
+- 🤞 I hope to get a FAANG internship one day. [My LeetCode profile](https://leetcode.com/doyedele/)
 - 💬 Ask me anything about tech via [@oracledev98](https://twitter.com/oracledev98). I am happy to help!
 - 📫 How to reach out to me for collaboration --> [Send me a mail](mailto:demilade.oyedele@gmail.com)
-- 😄 Pronouns: Him/He 💆🏾‍♂️
 - 📝 Check my resume here --> [My resume](https://docs.google.com/document/d/1NPF2D-IFMpKJTsoFU_M4PZGRf57ibAQM1h17nhkbpQQ/edit?usp=sharing)
 
 <!-- Languages and tools section -->
