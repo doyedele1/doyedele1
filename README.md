@@ -1,5 +1,5 @@
 <!-- Profile card -->
-[![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/my_profile_card.jpeg)](https://demiladeoyedele.netlify.app/)
+[![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/my_profile_card.jpeg)](https://demiladeoyedele.netlify.app/){:target="_blank"}
 
 
 <!-- Retro visitor counter
