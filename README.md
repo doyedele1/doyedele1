@@ -1,5 +1,5 @@
 <!-- Profile card -->
-[![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/my_profile_card.jpeg)](https://demiladeoyedele.netlify.app/?target=_blank)
+[![Header](https://raw.githubusercontent.com/doyedele1/doyedele1/master/my_profile_card.jpeg)](https://demiladeoyedele.netlify.app/)
 
 
 <!-- Retro visitor counter
@@ -40,8 +40,5 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
 <h2><b>⚡ My Dev Statistics</b></h2>
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doyedele1&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doyedele1&show_icons=true&hide_border=true" />
 </p>
