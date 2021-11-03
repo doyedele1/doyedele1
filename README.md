@@ -35,10 +35,3 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
 <h2><b>My Socials</b></h2>
 <p><a href="https://twitter.com/oracledev98" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/oyedele-demilade/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@demilade.oyedele" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<!-- GitHub stats -->
-<h2><b>⚡ My Dev Statistics</b></h2>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doyedele1&show_icons=true&hide_border=true" />
-</p>
