@@ -20,7 +20,7 @@ I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-
 - 📫 How to reach out to me for collaboration --> [Send me a mail](mailto:demilade.oyedele@gmail.com)
 - 📝 Check my resume here --> [My resume](https://docs.google.com/document/d/1NPF2D-IFMpKJTsoFU_M4PZGRf57ibAQM1h17nhkbpQQ/edit?usp=sharing)
 
-<!-- Languages and tools section -->
+<!-- Languages and tools section --
 <h2><b>Languages and Tools</b></h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
