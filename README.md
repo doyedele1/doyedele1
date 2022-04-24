@@ -13,7 +13,7 @@
 I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-taught Full-Stack web developer from Lagos Nigeria. I am passionate about building technical innovative products that impact individuals and businesses. I take great care in the user experience, system architecture, and code quality of the things I build.
 
 - 🔭 I’m currently working on FlexHere & redeveloping my personal website
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on any exciting web project in React, Node & Angular
 - 🤞 I hope to get a FAANG internship one day
 - 💬 Ask me anything about tech via [@oracledev98](https://twitter.com/oracledev98). I am happy to help!
