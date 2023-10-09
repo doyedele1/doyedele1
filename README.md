@@ -10,7 +10,7 @@
  <!-- Welcome Message -->
 <h2>Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height = "25px"></h2>
 
-I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-taught Full-Stack web developer living in the United Kingdom. I am passionate about building technical, innovative products that impact individuals and businesses. I take great care of the user experience, system architecture, and code quality of the things I build.
+I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/) (you can call me _Demi_), a passionate autodidatic Full-Stack web developer living in the United Kingdom. I am passionate about building technical, innovative products that impact individuals and businesses. I take great care of the user experience, system architecture, and code quality of the things I build.
 
 - 🔭 I’m currently developing a web-based NLP application designed for individuals without flawless musical pitch
 - 🌱 I’m presently engaged in ML studies through online programs at both Stanford University & Harvard University
