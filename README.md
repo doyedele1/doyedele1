@@ -10,11 +10,11 @@
  <!-- Welcome Message -->
 <h2>Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height = "25px"></h2>
 
-I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-taught Full-Stack web developer from Lagos Nigeria. I am passionate about building technical, innovative products that impact individuals and businesses. I take great care of the user experience, system architecture, and code quality of the things I build.
+I'm [Demilade Oyedele](https://demiladeoyedele.netlify.app/), a passionate self-taught Full-Stack web developer living in the United Kingdom. I am passionate about building technical, innovative products that impact individuals and businesses. I take great care of the user experience, system architecture, and code quality of the things I build.
 
 - 🔭 I’m currently developing a web-based NLP application designed for individuals without flawless musical pitch
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on any exciting web project in React, Node and Angular
+- 🌱 I’m presently engaged in ML studies through online programs at both Stanford University & Harvard University
+- 👯 I’m looking to collaborate on any exciting web project in React, Node and Java
 - 💬 Ask me anything about tech via [@oracledev98](https://twitter.com/oracledev98). I am happy to help!
 - 📫 How to reach out to me for collaboration --> [Send me a mail](mailto:demilade.oyedele@gmail.com)
 - 📝 Check my resume here --> [My resume](https://docs.google.com/document/d/1NPF2D-IFMpKJTsoFU_M4PZGRf57ibAQM1h17nhkbpQQ/edit?usp=sharing)
